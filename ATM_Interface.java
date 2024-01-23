@@ -14,7 +14,7 @@ public class ATM_Interface
         while(true)  
         {  
             System.out.println("ATM");  
-            System.out.println("1. Withdraw");  
+            System.out.println("1. Withdrawl");  
             System.out.println("2. Deposit");  
             System.out.println("3. Check Balance");  
             System.out.println("4. EXIT");         
